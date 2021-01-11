@@ -1,5 +1,5 @@
 # QEARL
-QEARL is a python code that takes the orbital parameters of an exoplanet and the spherical harmonics that describe the albedo map of the planet, and outputs the light curve that planet would generate.
+QEARL is a python code that takes the orbital parameters of an exoplanet and outputs the light curve that planet would generate. It is the quaternion version of the EARL Mathematica code previously developed in https://arxiv.org/abs/1802.06805. It uses quaternions rather than the Euler angles used in EARL to rotate the spherical harmonics.
 
 To Setup QEARL: (only runs on MAC IOS not Windows)
 
