@@ -20,8 +20,10 @@ To Setup QEARL: (only runs on MAC IOS not Windows)
 		https://github.com/moble/spherical_functions/blob/master/README.md
 
 	Download QEARL
-		Once in the repository jsheffler/QEARL click code and download zip. This should download a folder with the .ipynb file inside.
-		Note: You cannot run the code by opening it from this file.
+		Once in the repository jsheffler/QEARL click code and download zip. This should download a folder with the .ipynb 
+		file inside.
+		Note: You cannot run the code by opening it from this folder on the desktop. You must first open 
+		Jupyter Notebook via Anaconda. See "To Run QEARL"
 
 To Run QEARL:
 
